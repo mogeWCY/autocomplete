@@ -3,7 +3,6 @@ autocomplete---自动完成组件
 在html文件里引入`autocomplete.js`即可，注意，`autocomplete.js`和`autocomplete.css`文件要放在同一目录下。
 `<script src='autocomplete.js></script>`
 ### 该组件参照了百度，必应，搜狗等搜索引擎的自动完成框的显示效果，并基本还原
-### 可观看我录制的视频[这里][1]
 
 在html里写好如下结构
 ```
@@ -32,4 +31,3 @@ var auto=new Autocomplete({
 `pageSize`是指搜索建议能显示的最大数量，本例中为5条
 
 
-  [1]: http://1.yuhuo.sinaapp.com/test.webm
